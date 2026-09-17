@@ -1,0 +1,7 @@
+# tkinter já vem embutido no Python padrão do Windows — não precisa instalar.
+#
+# WMI é OPCIONAL: só é usada para mostrar o nome real das suas GPUs no
+# topo da janela. Sem ela, o app funciona normalmente, apenas sem esse
+# texto informativo.
+WMI>=1.5.1
+pywin32>=306
